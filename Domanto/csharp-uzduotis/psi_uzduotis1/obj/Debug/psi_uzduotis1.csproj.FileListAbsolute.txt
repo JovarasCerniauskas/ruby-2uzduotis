@@ -1,0 +1,14 @@
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\bin\Debug\psi_uzduotis1.exe.config
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\bin\Debug\psi_uzduotis1.exe
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\bin\Debug\psi_uzduotis1.pdb
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.csprojAssemblyReference.cache
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.csproj.CoreCompileInputs.cache
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.exe
+C:\studijos\PSI\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.pdb
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\bin\Debug\psi_uzduotis1.exe.config
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\bin\Debug\psi_uzduotis1.exe
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\bin\Debug\psi_uzduotis1.pdb
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.csprojAssemblyReference.cache
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.csproj.CoreCompileInputs.cache
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.exe
+F:\Studijos\3Kursas-1Semestras\Programu-sistemu-inzinerija\1uzd\psi_uzduotis1\psi_uzduotis1\obj\Debug\psi_uzduotis1.pdb
