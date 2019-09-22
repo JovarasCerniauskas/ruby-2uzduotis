@@ -7,5 +7,5 @@
   Taip pat taikomas 20 proc. administravimo mokestis.  
 
 # Aplankalai
-  - 2uzduotis.rb (uzduotis parasyta ruby kalba)
+  - 2uzduotis (uzduotis parasyta ruby kalba)
   - cpliusplius.cpp (uzduotis parasyta c++ kalba)
