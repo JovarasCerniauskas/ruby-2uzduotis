@@ -8,4 +8,4 @@
 
 # Aplankalai
   - 2uzduotis (uzduotis parasyta ruby kalba)
-  - cpliusplius.cpp (uzduotis parasyta c++ kalba)
+  - cpliusplius (uzduotis parasyta c++ kalba)
